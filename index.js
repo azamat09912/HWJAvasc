@@ -1,6 +1,6 @@
 let footballer = {
-    Aty: "Бауыржан",
-    Familia: "Исламхан",
+    Aty: "Messi",
+    Familia: "Lionel",
     age: 28,
     goals: 843,
     teams: ["Barcelona", "Psg", "Inter MIami"],
